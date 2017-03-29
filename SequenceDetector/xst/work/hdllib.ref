@@ -1,0 +1,5 @@
+MO dff NULL "Source Code/dff.v" vlg28/dff.bin 1490767500
+MO debounce NULL "Source Code/debounce.v" vlg1D/debounce.bin 1490767500
+MO sequence_detector NULL "Source Code/sequence_detector.v" vlg56/sequence__detector.bin 1490767500
+MO top_level NULL "Source Code/top_level.v" vlg7A/top__level.bin 1490767500
+MO clk_50MHz NULL "Source Code/clk_50MHz.v" vlg29/clk__50_m_hz.bin 1490767500

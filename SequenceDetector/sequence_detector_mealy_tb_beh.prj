@@ -1,0 +1,4 @@
+verilog work "dff.v"
+verilog work "sequence_detector_mealy.v"
+verilog work "sequence_detector_mealy_tb.v"
+verilog work "C:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v"

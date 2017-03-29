@@ -1,0 +1,5 @@
+verilog work "Source Code/dff.v"
+verilog work "Source Code/sequence_detector.v"
+verilog work "Source Code/debounce.v"
+verilog work "Source Code/clk_50MHz.v"
+verilog work "Source Code/top_level.v"

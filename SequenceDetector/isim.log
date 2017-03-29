@@ -1,0 +1,60 @@
+ISim log file
+Running: C:\Users\Victor Espinoza\Desktop\CECS 301\Lab 2- Sequence Detector\SequenceDetector\sequence_detector_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Victor Espinoza/Desktop/CECS 301/Lab 2- Sequence Detector/SequenceDetector/sequence_detector_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 100 fs
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Time= 36.0 ps X=0 Q=000 Z=0
+Time= 46.0 ps X=1 Q=001 Z=0
+Time= 56.0 ps X=1 Q=001 Z=0
+Time= 66.0 ps X=0 Q=010 Z=0
+Time= 76.0 ps X=0 Q=000 Z=0
+Time= 86.0 ps X=0 Q=000 Z=0
+Time= 96.0 ps X=1 Q=001 Z=0
+Time=106.0 ps X=0 Q=010 Z=0
+Time=116.0 ps X=1 Q=011 Z=0
+Time=126.0 ps X=0 Q=010 Z=0
+Time=136.0 ps X=1 Q=011 Z=0
+Time=146.0 ps X=1 Q=100 Z=0
+Time=156.0 ps X=0 Q=101 Z=0
+Time=166.0 ps X=1 Q=110 Z=1
+Time=176.0 ps X=0 Q=000 Z=0
+Time=186.0 ps X=1 Q=001 Z=0
+Time=196.0 ps X=1 Q=001 Z=0
+Time=206.0 ps X=0 Q=010 Z=0
+Time=216.0 ps X=1 Q=011 Z=0
+Time=226.0 ps X=1 Q=100 Z=0
+Time=236.0 ps X=1 Q=001 Z=0
+Time=246.0 ps X=1 Q=001 Z=0
+Time=256.0 ps X=1 Q=001 Z=0
+Time=266.0 ps X=0 Q=010 Z=0
+Time=276.0 ps X=0 Q=000 Z=0
+Time=286.0 ps X=1 Q=001 Z=0
+Time=296.0 ps X=0 Q=010 Z=0
+Time=306.0 ps X=1 Q=011 Z=0
+Time=316.0 ps X=1 Q=100 Z=0
+Time=326.0 ps X=0 Q=101 Z=0
+Time=336.0 ps X=1 Q=110 Z=1
+Time=346.0 ps X=1 Q=001 Z=0
+Time=356.0 ps X=0 Q=010 Z=0
+Time=366.0 ps X=1 Q=011 Z=0
+Time=376.0 ps X=1 Q=100 Z=0
+Time=386.0 ps X=0 Q=101 Z=0
+Time=396.0 ps X=1 Q=110 Z=1
+Time=406.0 ps X=1 Q=001 Z=0
+Time=416.0 ps X=1 Q=001 Z=0
+Time=426.0 ps X=0 Q=010 Z=0
+Time=436.0 ps X=1 Q=011 Z=0
+Time=446.0 ps X=0 Q=010 Z=0
+Time=456.0 ps X=1 Q=011 Z=0
+Time=466.0 ps X=0 Q=010 Z=0
+Stopped at time : 466 ps :  in File "C:/Users/Victor Espinoza/Desktop/CECS 301/Lab 2- Sequence Detector/SequenceDetector/Source Code/sequence_detector_tb.v" Line 70 

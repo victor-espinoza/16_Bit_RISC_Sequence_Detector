@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Victor Espinoza/Desktop/CECS 301/Lab 2- Sequence Detector/SequenceDetector/Source Code/clk_50MHz.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Victor Espinoza/Desktop/CECS 301/Lab 2- Sequence Detector/SequenceDetector/Source Code/debounce.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Victor Espinoza/Desktop/CECS 301/Lab 2- Sequence Detector/SequenceDetector/Source Code/dff.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Victor Espinoza/Desktop/CECS 301/Lab 2- Sequence Detector/SequenceDetector/Source Code/sequence_detector.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Victor Espinoza/Desktop/CECS 301/Lab 2- Sequence Detector/SequenceDetector/Source Code/sequence_detector_tb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Victor Espinoza/Desktop/CECS 301/Lab 2- Sequence Detector/SequenceDetector/Source Code/top_level.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

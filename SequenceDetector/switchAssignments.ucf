@@ -1,0 +1,28 @@
+//////////////////////////////////////////////////////////////////////////////////
+// 
+// Author: 		 	 Victor Espinoza
+// Email: 			 victor.alfonso94@gmail.com
+// Create Date:    22:14:40 09/22/2013  
+// Filename: 		 switch_assignment.ucf
+//
+// Description: 	 This switch assignment file is used to connect our inputs to 
+//						 their appropriate place on the Nexys 2 board.
+//
+// Dependencies: 
+//
+// Revision: 
+// Revision 0.01 - File Created
+// Additional Comments: 
+//
+//////////////////////////////////////////////////////////////////////////////////
+
+NET "clk" 	LOC="B8";
+NET "reset" LOC="H13";
+NET "M" 		LOC="R17";
+NET "X" 		LOC = "G18";
+NET "Z" 		LOC = "J14";
+
+NET "Q(2)" 	LOC="R4";
+NET "Q(1)" 	LOC="F4";
+NET "Q(0)" 	LOC="P15";
+NET "step" 	LOC="B18";

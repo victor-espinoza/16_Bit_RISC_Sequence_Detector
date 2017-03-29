@@ -1,0 +1,4 @@
+verilog isim_temp "Source Code/dff.v"
+verilog isim_temp "Source Code/sequence_detector.v"
+verilog isim_temp "Source Code/sequence_detector_tb.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
