@@ -1,4 +1,4 @@
-# Lab_2_Sequence_Detector
+# Lab_1_Sequence_Detector
 Overview:  
 Sequence Detector implemented using FPGA logic.
   
